@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT order_id) AS Total_orders from pizza_sales
